@@ -36421,10 +36421,9 @@ else q=a.I(q).f.a.a<540?1:2
 s=A.aiT(new A.a9A(),!0,!0,!0,9)
 return A.c1(r,new A.FO(new A.IA(q),3,3,s,r,B.Z,!1,r,!0,B.fg,!1,r,9,B.ai,B.eL,r,B.af,r),B.o,B.k,r,r,r,r,r,r,B.ms,r,r,r)}}
 A.a9A.prototype={
-$2(a,b){var s=null,r="bg_img/"+(b+1)+".jpg",q=A.mP(r,A.ai(204,158,158,158),B.lB,s,s),p=t.p
-q=A.lE(B.bu,A.b([q,A.xe(s,A.dy(A.b([A.c1(s,s,B.o,B.bn,s,s,s,4,s,s,s,s,s,70),B.cL,B.Oq,B.cL,B.Ow],p),B.aC,B.G,B.b8),s,s,40,s,40,s)],p),B.bc,s,s)
+$2(a,b){var s=null,r="bg_img/"+(b+1)+".jpg",q=t.p,p=A.lE(B.bu,A.b([A.mP(r,A.ai(204,158,158,158),B.lB,s,s),A.xe(s,A.dy(A.b([A.c1(s,s,B.o,B.bn,s,s,s,4,s,s,s,s,s,70),B.cL,B.Oq,B.cL,B.Ow],q),B.aC,B.G,B.b8),s,s,40,s,40,s)],q),B.bc,s,s)
 r=A.mP(r,s,s,s,s)
-return A.q2(A.hF(new A.vA(A.lE(B.bu,A.b([r,A.xe(s,A.dy(A.b([A.c1(s,s,B.o,B.bn,s,s,s,4,s,s,s,s,s,70),B.cL,B.Ou,B.cL,B.Os],p),B.aC,B.G,B.b8),s,s,40,s,40,s)],p),B.bc,s,s),q,new A.a9y(b),s),B.dG,s,s,s,s),new A.a9z(a),B.W,s)},
+return A.q2(A.hF(new A.vA(A.lE(B.bu,A.b([r,A.xe(s,A.dy(A.b([A.c1(s,s,B.o,B.bn,s,s,s,4,s,s,s,s,s,70),B.cL,B.Ou,B.cL,B.Os],q),B.aC,B.G,B.b8),s,s,40,s,40,s)],q),B.bc,s,s),p,new A.a9y(b),s),B.dG,s,s,s,s),new A.a9z(a),B.W,s)},
 $S:362}
 A.a9z.prototype={
 $0(){A.ai1(this.a,"product-cate-page",t.X)},
